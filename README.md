@@ -8,7 +8,7 @@ We have archived a representative selection of book covers and user interfaces f
 
 ![alt text](https://github.com/junting-huang/chinese_internet_literature/blob/a041781dad1799c7a6b7e49978b88bb5bf4c24ef/book_art_2.png)
 
-See the [Project] (https://chinesebookcover.wordpress.com)
+See the [Project](https://chinesebookcover.wordpress.com)
 
 ## Team Members
 * Renren Yang (Principal Investigator), assistant professor of modern Chinese popular culture, Asian Studies, UBC
