@@ -11,6 +11,6 @@ We have archived a representative selection of book covers and user interfaces f
 See the [Project](https://chinesebookcover.wordpress.com)
 
 ## Team Members
-* Renren Yang (Principal Investigator), assistant professor of modern Chinese popular culture, Asian Studies, UBC
+* Renren Yang (Principal Investigator), assistant professor, Asian Studies, UBC
 * Tianyu Li, graduate student, Asian Studies, UBC
 * Junting Huang, college fellow, Comparative Literature, Harvard
